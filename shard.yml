@@ -4,6 +4,6 @@ version: 1.2.1
 authors:
   - Joakim Reinert <mail@jreinert.com>
 
-crystal: 0.26.0
+crystal: 1.0.0
 
 license: MIT
